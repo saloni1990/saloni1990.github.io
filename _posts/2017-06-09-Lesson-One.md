@@ -2,8 +2,7 @@
 <html>
 
  <head>
-	<title>Lesson 1: HTML Basics</title>
-		
+	<title>Lesson 1: HTML Basics</title>		
 </head>
 <body>
 	<h1>Lesson 1: HTML Basics</h1>
@@ -18,8 +17,6 @@
 		<p>This lessons covers all the different types of headings which is why this post looks a little strange.</p>
 		<h6>Come back soon to see my progress!</h6>
 		<p>Thanks for reading!</p>
-		
-		
 		
 	</body>
 </html>
