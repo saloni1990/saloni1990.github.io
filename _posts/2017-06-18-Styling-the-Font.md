@@ -29,9 +29,9 @@
 		<h1>Aligning Text</h1>
 		<h3 style="text-align:center">Films I have recently watched</h3>
 			<ol>
-				<li style="text-align:left">Wonder Woman</li>	
-				<li style="text-align:center">Moon</li>
-				<li style="text-align:right">Sing</li>
+				<li style="text-align:left">Wonder Woman (aligned left)</li>	
+				<li style="text-align:center">Moon (aligned centre)</li>
+				<li style="text-align:right">Sing (aligned right)</li>
 			</ol>	
 	</body>
 </html>
