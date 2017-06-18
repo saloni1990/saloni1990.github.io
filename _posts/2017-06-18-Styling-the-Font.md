@@ -25,5 +25,13 @@
 				<li>Game of Thrones</li>	
 				<li>Better Call Saul</li>
 				<li>Gilmore Girls</li>
+			</ol>
+		<h1>Aligning Text</h1>
+		<h3 style="text-align:center">Films I have recently watched</h3>
+			<ol>
+				<li style="text-align:left">Wonder Woman</li>	
+				<li style="text-align:center">Moon</li>
+				<li style="text-align:right">Sing</li>
+			</ol>	
 	</body>
 </html>
