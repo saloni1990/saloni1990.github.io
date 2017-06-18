@@ -10,7 +10,7 @@
 		<p style="font-size:40px">Making the text size 40px.</p>
 		
 		<h1 style="color: crimson; font-size:48px">Changing the Colour</h1>
-		<p style="color: violet">This paragraph is an example of changing the font colour. A list of all colour names can be found <a href="https://www.w3.org/TR/css3-color/#svg-color">here</a></p>
+		<p style="color: violet">This paragraph is an example of changing the font colour. A list of all colour names can be found <a href="https://www.w3.org/TR/css3-color/#svg-color">here.</a></p>
 		<p style="color: orangered; font-size:10px">This is an example of a paragraph containing a different colour and font size.</p>
 		
 	</body>
