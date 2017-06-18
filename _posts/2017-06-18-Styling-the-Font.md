@@ -26,12 +26,15 @@
 				<li>Better Call Saul</li>
 				<li>Gilmore Girls</li>
 			</ol>
-		<h1>Aligning Text</h1>
+		<h1 style="font-size:48px">Aligning Text</h1>
 		<h3 style="text-align:center">Films I have recently watched</h3>
 			<ol>
 				<li style="text-align:left">Wonder Woman (aligned left)</li>	
 				<li style="text-align:center">Moon (aligned centre)</li>
 				<li style="text-align:right">Sing (aligned right)</li>
 			</ol>	
+		<h1 style="font-size:48px">A Strng emphasis on text</h1>
+		<p>When we want to highlight parts of a text, we can can use the "strong" element to make certain parts of the font <strong>bold</strong>. </p>
+		<p> When we want to empshasise a particular owrd we can use the "em" element which will style the font in <em>italics</em>.</p>		
 	</body>
 </html>
