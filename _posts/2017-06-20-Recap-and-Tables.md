@@ -16,7 +16,7 @@
                  	<td>Two</td>
             	</tr>
                	<tr>
-                	<td>Three</t> 
+                	<td>Three</td> 
            	</tr>
         </table>
 	<p>This is a single-column table! Adding a second table data cell has the effect of adding a second table column.</p>
