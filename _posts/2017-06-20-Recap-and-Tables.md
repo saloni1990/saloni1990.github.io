@@ -48,5 +48,4 @@
 <a href="https://www.codecademy.com/en/courses/web-beginner-en-f8mcL/1/2?curriculum_id=50579fb998b470000202dc8b" target="_blank"><img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/Table+Example.PNG" /></a>
 <p>The table needs a heading so we need to use the "colspan" attribute for the "th" tag. By default, table cells take up 1 column. If we want a table cell to take up the space of 3 columns instead of 1, we can set the colspan attribute to 3.</p>
 	</body>
-
 </html>
