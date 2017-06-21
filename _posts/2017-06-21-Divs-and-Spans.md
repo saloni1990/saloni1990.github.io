@@ -11,7 +11,9 @@
 		<a href="http://www.pinterest.com">
 			<div style="width:50px; height:50px; background-color:yellow"></div>
 	    	</a>
-		<p><span style="color:red">While</span> "div" allows you to divide your webpage up into pieces you can style individually, <span> allows you to control styling for smaller parts of your page, such as text. For example, if you always want the first word of your paragraphs to be red, you can wrap each first word in "span""/span" tags</p>
-		<p>Color is just one attribute you can selectively change with <span> tags; you can also change font size, font family, and any other style attribute you can think of! For example, you can also make part of a paragraph to change the font family to <span style="font-family: Impact">impact</span>.</p>
+		<p><span style="color:red">While</span> "div" allows you to divide your webpage up into pieces you can style individually, <span> allows you to control styling for smaller parts of your page, such as text. For example, if you always want the first word of your paragraphs to be red, you can wrap each first word in "span""/span" tags.
+		</p>
+		<p>Color is just one attribute you can selectively change with <span> tags; you can also change font size, font family, and any other style attribute you can think of! For example, you can also make part of a paragraph to change the font family to <span style="font-family: Impact">impact</span>. 
+		</p>
 	</body>
 </html>
