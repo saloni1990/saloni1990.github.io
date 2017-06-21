@@ -8,6 +8,8 @@
 		<div style="width:50px; height:50px; background-color:red"></div>
 		<div style="width:50px; height:50px; background-color:blue"></div>
 		<div style="width:50px; height:50px; background-color:green"></div>
+		<a href="http://www.pinterest.com">
 		<div style="width:50px; height:50px; background-color:yellow"></div>
+	    </a>
 	</body>
 </html>
