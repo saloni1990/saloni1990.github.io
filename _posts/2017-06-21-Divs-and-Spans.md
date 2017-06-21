@@ -17,7 +17,7 @@
 		</p>
 			<table>
 	 <thead>
-	    <th>My Photos</th>
+	    <th colspan="3">My Photos</th>
 	 </thead>
 	 <tbody>
 	    <tr>
