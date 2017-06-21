@@ -15,5 +15,63 @@
 		</p>
 		<p>Color is just one attribute you can selectively change with <span> tags; you can also change font size, font family, and any other style attribute you can think of! For example, you can also make part of a paragraph to change the font family to <span style="font-family: Impact">impact</span>. 
 		</p>
+			<table>
+	 <thead>
+	    <th>My Photos</th>
+	 </thead>
+	 <tbody>
+	    <tr>
+	        <td>
+	            <a href="https://www.pexels.com/" target="_blank">
+	                <img src="https://static.pexels.com/photos/296878/pexels-photo-296878.jpeg" />
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://www.pexels.com/" target="_blank">
+	                <img src="https://static.pexels.com/photos/309269/pexels-photo-309269.jpeg" />
+	           </a>
+	        </td>
+	        <td>
+	           <a href="https://www.pexels.com/" target="_blank">
+	                <img src="https://static.pexels.com/photos/347995/pexels-photo-347995.jpeg" />
+	           </a>
+	        </td>
+	    </tr>
+	    <tr>
+	        <td>
+	            <a href="https://www.pexels.com/" target="_blank">
+	                <img src="https://static.pexels.com/photos/192637/pexels-photo-192637.jpeg" />
+	           </a>
+	        </td>
+	        <td>
+	            <a href="https://www.pexels.com/" target="_blank">    
+	                <img src="https://static.pexels.com/photos/109275/pexels-photo-109275.jpeg" />
+	            </a>
+	        </td>
+	        <td>
+	             <a href="https://www.pexels.com/" target="_blank">   
+	                <img src="https://static.pexels.com/photos/96857/pexels-photo-96857.jpeg" />
+	            </a>
+	        </td>
+	    </tr>
+	    <tr>
+	        <td>
+	            <a href="https://www.pexels.com/" target="_blank">
+	                <img src="https://static.pexels.com/photos/407110/pexels-photo-407110.jpeg" />
+	            </a>
+	        </td>
+	        <td>
+	            <a href="https://www.pexels.com/" target="_blank">  
+	                <img src="https://static.pexels.com/photos/185499/pexels-photo-185499.jpeg" />
+	           </a>
+	        </td>
+	        <td>
+	            <a href="https://www.pexels.com/" target="_blank">
+	                <img src="https://static.pexels.com/photos/395134/pexels-photo-395134.jpeg" />
+	            </a>
+	        </td>
+	    </tr>
+	 </tbody>
+	</table>
 	</body>
 </html>
