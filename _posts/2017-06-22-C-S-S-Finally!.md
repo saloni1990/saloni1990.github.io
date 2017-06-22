@@ -6,6 +6,7 @@
 			p {
 				color: Green;
 				font-family: Verdana;
+			}
 		</style>
 		<title>Learning C S S!</title>
 	</head>
