@@ -10,7 +10,7 @@
 				color: Blue;
 			}
 			span {
-				bacground-color: purple;
+				background-color: purple;
 			}
 		</style>
 		<title>Getting to Grips with CSS</title>
@@ -22,5 +22,12 @@
    <a href="codecademy.com/courses/web-beginner-en-HZA3b" targer="blank">
     <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/CSS+Syntax.png" />
    </a>
+   <h1>Using the Right Comments</h1>
+   <p>It is important to differentiate the type of comments you are using when trying HTML and when writing CSS so that the comments can explain to someone why that code has been writing, and it can also help you remind why you have done what you have done! The computer won't look at these comments when it tries to figure out what the HTML and CSS code should do, but you it is worth keeping this good pratice right from the beginning</p>
+   <h3>HTML Comments</h3>
+   <p>HTML comments look like this: "!--I'm a comment!--" (of course, dont forget to add the tags are either end)
+</p>
+   <h3>CSS Comments</h3>
+   <p>CSS comments, on the other hand, look like this: "/*I'm a comment!*/</p>"
   </body>
 </html>
