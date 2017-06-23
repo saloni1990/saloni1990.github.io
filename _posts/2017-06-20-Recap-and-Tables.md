@@ -46,7 +46,7 @@
                			<td>2011-</td>
             		</tr>
         </table>
-	<p>To make the table look a little more like a table, we need to use the "thead" and "tbody" tags. These go within the <table> tag and stand for table head and table body, respectively.
+	<p>To make the table look a little more like a table, we need to use the "thead" and "tbody" tags. These go within the "table" tag and stand for table head and table body, respectively.
 	</p>
 	<p>The "head"HTML tag contains information about a web page (e.g. its title) and the "body" tag contains the contents of the web page. In the same way, the "thead" tag can be thought of as containing information about a table and the "tbody" tag containing the actual tabular data. The example below is great!
 	</p>
