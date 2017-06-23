@@ -46,6 +46,6 @@
 	<p>To make the table look a little more like a table, we need to use the "thead" and "tbody" tags. These go within the <table> tag and stand for table head and table body, respectively.</p>
 	<p>The "head"HTML tag contains information about a web page (e.g. its title) and the <body> tag contains the contents of the web page. In the same way, the "thead" tag can be thought of as containing information about a table and the "tbody" tag containing the actual tabular data. The example below is great!</p>
 	<a href="https://www.codecademy.com/en/courses/web-beginner-en-f8mcL/1/2?curriculum_id=50579fb998b470000202dc8b" target="_blank"><img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/Table+Example.PNG" /></a>
-	<p>The table needs a heading so we need to use the "colspan" attribute for the "th" tag. By default, table cells take up 1 column. If we want a table cell to take up the space of 3 columns instead of 1, we can set the colspan attribute to 3.</p>
+	<p>The table needs a heading so we need to use the "colspan" attribute for the "th" tag. By default, table cells take up 1 column. If we want a table cell to take up the space of 3 columns instead of 1, we can set the colspan attribute to 3</p>
 	</body>
 </html>
