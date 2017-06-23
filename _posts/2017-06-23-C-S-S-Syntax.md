@@ -43,7 +43,6 @@
 	                <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/CSS+Project+2.2.jpeg" />
 	        </td>
 	    </tr>
-	    <tr>
 	 </tbody>
 	</table>
   </body>
