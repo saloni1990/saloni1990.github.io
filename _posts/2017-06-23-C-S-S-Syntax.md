@@ -4,7 +4,7 @@
 			p {
 				color: Green;
 				font-family: Garamond;
-        font-size: 24px;
+				font-size: 24px;
 			}
 			h1 {
 				color: Blue;
@@ -30,7 +30,7 @@
    <h3>CSS Comments</h3>
    <p>CSS comments, on the other hand, look like this: "/*I'm a comment!*"/</p>
    <h1>A project playing with CSS</h1>
-		<table>
+	<table>
 	 <thead>
 	    <th colspan="2">CSS Project</th>
 	 </thead>
