@@ -6,6 +6,12 @@
 				font-family: Garamond;
         font-size: 24px;
 			}
+			h1 {
+				color: Blue;
+			}
+			span {
+				bacground-color: purple;
+			}
 		</style>
 		<title>Getting to Grips with CSS</title>
 	</head>
