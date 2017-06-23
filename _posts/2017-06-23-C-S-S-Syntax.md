@@ -1,5 +1,12 @@
 <html>
   <head>
+    <style>
+    p {
+    color: green;
+    font-family: Garamond;
+    font-size: 24px;
+}
+    </style>
     <title>Getting to Grips with CSS>
   </head>
   <body>
@@ -10,7 +17,7 @@
    <p>So for now I am going to continue to learn the basics of CSS. I think this picture is a perfect example of how CCS works and what each tag or attribute means.
    </p>
    <a href="codecademy.com/courses/web-beginner-en-HZA3b" targer="blank">
-    <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/CSS+Syntax.tiff" />
+    <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/CSS+Syntax.png" />
    </a>
   </body>
 </html>
