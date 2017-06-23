@@ -4,7 +4,7 @@
 	</head>
 	<body>
 	<h1 style="font-family: Arial">Recap</h1>	
-		<p> I've been thinking quite a bit about how to apply what I am learning to create attractive, simplistic websites that can be navigated easily by the user. I like the design of the website below (it's also one of my favourite cafes!)</p>
+	<p>I've been thinking quite a bit about how to apply what I am learning to create attractive, simplistic websites that can be navigated easily by the user. I like the design of the website below (it's also one of my favourite cafes!)</p>
 	    <a href="http://www.thegroundworks.co.uk/" target="_blank">	<img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/The+Groundworks.PNG" /> </a>
 	<h1 style="font-family: Arial">Tables Are Sweet</h1>	
 	<p>A table is just a bunch of information arranged in rows and columns.We use the "tr" tag to create a table row. You don't really create columns in tables: instead, you tell each row how many cells to have, and that determines your number of columns.</p>
