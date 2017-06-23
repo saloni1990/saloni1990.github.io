@@ -1,11 +1,11 @@
 <html>
   <head>
     <style>
-    p {
-    color: green;
-    font-family: Garamond;
-    font-size: 24px;
-}
+           p {
+              color: green;
+              font-family: Garamond;
+              font-size: 24px;
+           }
     </style>
     <title>Getting to Grips with CSS>
   </head>
