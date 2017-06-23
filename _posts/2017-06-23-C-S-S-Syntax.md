@@ -28,6 +28,22 @@
    <p>HTML comments look like this: "!--I'm a comment!--" (of course, dont forget to add the tags are either end)
 </p>
    <h3>CSS Comments</h3>
-   <p>CSS comments, on the other hand, look like this: "/*I'm a comment!*/</p>"
+   <p>CSS comments, on the other hand, look like this: "/*I'm a comment!*"/</p>
+   		<table>
+	 <thead>
+	    <th colspan="3">CSS Project</th>
+	 </thead>
+	 <tbody>
+	    <tr>
+	        <td>
+	                <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/CSS+Project.jpeg" />
+	        </td>
+	        <td>
+	                <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/CSS+Project+2.2.jpeg" />
+	        </td>
+	    </tr>
+	    <tr>
+	 </tbody>
+	</table>
   </body>
 </html>
