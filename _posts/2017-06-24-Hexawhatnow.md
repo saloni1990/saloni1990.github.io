@@ -24,9 +24,6 @@ h5 {
 h6 {
 	color: #8B668B;
 }
-li {
-	color: #F85A3E;
-}
     </style>
     <title>Hexawhatnow?</title>
   </head>
