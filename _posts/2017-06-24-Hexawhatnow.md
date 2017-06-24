@@ -24,7 +24,7 @@ h5 {
 h6 {
 	color: #8B668B;
 }
-a href {
+li {
 	color: #F85A3E;
 }
     </style>
