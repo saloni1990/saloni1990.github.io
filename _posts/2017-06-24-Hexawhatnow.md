@@ -49,7 +49,7 @@ h6 {
     	<li><a href="https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437" target="blank">An Intro to Colour Theory for Web Designers</a></li>
 	<li><a href="https://www.smashingmagazine.com/2012/10/the-code-side-of-color/" target="blank">The Code Side of Color</a></li>
 	<li><a href="https://coolors.co/493548-4b4e6d-618185-80b192-a1e887" target="blank">Coolors</a></li>
-    <p>And if you're ever stuck for ideas, <a href="https://uk.pinterest.com/explore/hex-color-palette/?lp=true" target="blank">Pinterest</a> is an awesome tool for inspiration!
     </ul>
+    <p>And if you're ever stuck for ideas, <a href="https://uk.pinterest.com/explore/hex-color-palette/?lp=true" target="blank">Pinterest</a> is an awesome tool for inspiration!</p>
   </body>
 </html>
