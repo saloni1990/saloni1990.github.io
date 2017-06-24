@@ -31,6 +31,7 @@ h6 {
     <h1>Hexadecimal Values</h1>
     <p>Up until now, when choosing colours I have been using words such as "red", "green" and "blue". What I wanted to use other colours, such as crimson red or a colour as orange as a sunset? CSS doesnt understand language like that but it can understand millions of colours in the form of hexadecimal values.</p>
     <p>We're already familiar with demical values as it's in every day counting. When we see a number (e.g. 1,543), each digit can only go from 0 - 9. Because there are only ten possibilities, we say that regular counting is base-10. Hexadecimal counting is base-16. Each digit can be the numbers 0 through 9 or the letters a through f!</p>
+    <p>WHex values always start with a pound sign (#), are up to six "digits" long, and are not case-sensitive. #FFC125 and #ffc125 are the same color.</p>
     <p>Here is an example:</p>
     <h1>I'm maroon!</h1>
     <h2>I'm coral!</h2>
