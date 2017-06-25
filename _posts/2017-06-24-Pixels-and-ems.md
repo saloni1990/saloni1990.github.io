@@ -4,7 +4,7 @@
 	<title>Difference between Pixels and ems</title>
 </head>
 <body>
-	<h1>what is the different between Pixels and ems?</h1>
+	<h1>What is the different between Pixels and ems?</h1>
 	<p>Until now, when adjusting the font size I've been using the "px" unit. This meants that each dot on the screen is one pixel and so it works great if I want someone else to see my work exactly as it appears on my screen, assuming their screen is similar to mine.</p>
 	<p>If the user's screen is different from mine, like a smartphone screen, em's are the way to go! (It's not the same as the em tag!</p>
 	<h1>A relative measure</h1>
