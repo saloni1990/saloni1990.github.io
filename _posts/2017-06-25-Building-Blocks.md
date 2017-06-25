@@ -7,7 +7,6 @@
 			height: 100px;
 			width: 100px;
 			}
-
 	</style>
 	<title>Building Blocks</title>
 </head>
