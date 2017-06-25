@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	<style type="text/css">
+	<style>
 		div {
 			background-color: #cc0000;
 			height: 100px;
