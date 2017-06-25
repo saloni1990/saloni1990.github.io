@@ -2,15 +2,38 @@
 <html>
 <head>
 	<style>
-		div {
-			background-color: #cc0000;
-			height: 100px;
-			width: 100px;
-			}
+		td {
+	height: 50px;
+	border: 1px dashed blue;
+}
+		table {
+	border: 1px solid black;
+}
 	</style>
 	<title>Building Blocks</title>
 </head>
 <body>
-	<div></div>
+		<table>
+			<thead>
+				<th colspan="3">Nine Blocks!</th>
+			</thead>
+			<tbody>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</tbody>
+		</table>
 </body>
 </html>
