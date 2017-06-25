@@ -44,5 +44,7 @@
 <p>Links have a lot of the same properties as regular text: you can change their font, color, size, and so on.</p>
 <p>But links also have a property, text-decoration, that you can change to give your links a little more custom flair. You're probably used to seeing links that are blue and underlined, right? Well, that's not the way it has to be!</p>
 <p>Here is a link to <a href="www.google.co.uk" target="blank"> Google</a> with the link changed to the colour orange</p>
+<h1>Adding a border to pictures</h1>
+<img src="" />
 </body>
 </html>
