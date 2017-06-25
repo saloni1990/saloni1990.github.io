@@ -1,7 +1,6 @@
 
 <html>
 <head>
-	<title>Building Blocks</title>
 	<style type="text/css">
 		div {
 			background-color: #cc0000;
@@ -10,6 +9,7 @@
 			}
 
 	</style>
+	<title>Building Blocks</title>
 </head>
 <body>
 	<div></div>
