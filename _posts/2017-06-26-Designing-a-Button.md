@@ -8,8 +8,9 @@
 <p>A div will create the structure of the button. I just need to specify the height, width, border colour and background colour. I can even define the border style which can make the border dashed, solid, etc. and choose the border width</p>
 <p>To shape the button, I've used the border-radius tag which modifies the corners of HTML objects to give them a rounded effect.</p>
 <p>To center the button on th page we need to use the margin: auto; attribute. This tells the browser to set equal margins on each side of the HTML element - when the margins are equal, the object is centered. Text-align:center, on the other hand, will centre text element</p>
-<p>Now, my button should look like the image below...
+<p>
 <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/Pinterest.jpeg" align="right"/>
+Now, my button should look like the image below...
 </p>
 <p>..but since the Jekyll layout has predefined css styling, using the div elements has messed up the style of my blog post(see the picture below the button).
 <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/Blog-post.jpeg" align="right"/>
