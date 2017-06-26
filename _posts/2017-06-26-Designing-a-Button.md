@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>Designing a Button</title>
-	<style type="text/css"><
+	<style type="text/css">
 	div {
 		height: 50px;
 		width: 120px;
