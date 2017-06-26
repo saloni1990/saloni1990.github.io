@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Designing a Button</title>
@@ -15,9 +14,9 @@
 		text-align: center;
 	}
 	a {
-	    text-decoration: none;
-	    color: #FFFFFF;
-	    font-family: Verdana;
+	    	text-decoration: none;
+	    	color: #FFFFFF;
+	    	font-family: Verdana;
 	}
 	</style>
 </head>
