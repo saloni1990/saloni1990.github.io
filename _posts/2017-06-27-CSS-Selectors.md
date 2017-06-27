@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>CSS Selectors</title>
