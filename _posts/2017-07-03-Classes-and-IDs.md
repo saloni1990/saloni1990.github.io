@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Classes and IDs<title>
+	<title>Classes and IDs</title>
 </head>
 <body>
 <h1>More Specificity</h1>
