@@ -87,6 +87,5 @@
 <h1>Negative Values</h1>
 <p>When a CSS style is given a positive padding or margin value, it put space between the element and its reference; for instance if a div element has a margin left of 20px, it puts twenty pixels between the left margin of that div element and the side of the screen. This is effectively moving the div twenty pixels to the right.</p>
 <p>To move an element in the <em>other</em> direction, we can give the CSS a negative value: 'margin-left:-20px' will move the element twenty pixels to the left.</p>
-<h1>Floating</h1>
 </body>
 </html>
