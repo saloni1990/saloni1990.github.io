@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+
 <html>
   {% include head.html %}
   <body>
     <div class="page-content">
         {{ content }}
     </div>
-    {% include footer.html %}
+
   </body>
 </html>
