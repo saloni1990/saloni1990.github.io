@@ -2,14 +2,10 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-    text-align: center;
-	background: url("https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/SaloniandTom-493.jpg");
-	background-size: cover;
-	background-position: center;
-	color: white;
+background: url("https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/SaloniandTom-493.jpg");
+background-size: cover;
+background-position: center;
+
 
     // Positioning context for the mobile navigation icon
     position: relative;
