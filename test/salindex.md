@@ -3,7 +3,7 @@
 
 	<head>
 		<title>SARO</title>
-		<link rel="stylesheet" type="text/css" href="https://github.com/saloni1990/saltest/edit/master/styles/normalize.css">
+		<link rel="stylesheet" type="text/css" href="https://github.com/saloni1990/saltest/edit/master/test/styles/salindex.css">
 
 	</head>
 
