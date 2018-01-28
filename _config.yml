@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -9,8 +10,9 @@
 title: Sal Learns to Code
 email: salonicmd@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-"Self-taught front end web-developer. A website to showcase my skills."
-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: saloni1990
