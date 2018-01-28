@@ -1,0 +1,99 @@
+header {
+	text-align: center;
+	background: url("https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/SaloniandTom-493.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+
+img {
+	margin: 40px 0px 0px 0px;
+	width: 350px;
+	height: 250px;
+	border: 5px solid white;
+	border-radius: 20px;
+
+}
+
+
+
+ul {
+	padding: 10px;
+	background: rgba(0,0,0,0.5);
+}
+
+.topnav a{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 0px 10px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover {
+	background-color: white;
+	color: black;
+}
+
+.topnav a.active {
+	color: black;
+	background-color: white;
+
+}
+li {
+	display: inline-block;
+	padding: 0px 10px 0px 10px;
+	
+@media (max-width: 500px) {
+    h1 {
+      font-size: 36px
+    }
+    li {
+      display: block;
+      padding: 5px;
+    }
+}
+
+article {
+	width: max-width: 500px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 50px;
+}
+		
+body {
+	text-align: center;
+	font-family: Helvetica;
+}
+		
+p {
+	font-size: 22px;
+}
+
+input{
+	border: 0;
+	padding: 10px;
+	margin: 10px 0px 0px 0px;
+	font-size: 18px;
+}
+input[type="submit"] {
+	background: orange;
+	color: white;
+}
+
+footer {
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
