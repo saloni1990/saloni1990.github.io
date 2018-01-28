@@ -28,7 +28,12 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+.left {
+    float:left;
+    height: 300px;
+    width: 300px;
+    background-color: #FF0000;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
