@@ -31,7 +31,12 @@
     color: $brand-color;
     text-align: center;
     padding: 0px 10px;
-    font size-17px;
+    font size: 17px;
+    
+    .nav-ul {
+    padding: 10px;
+	background: rgba(0,0,0,0.5);
+    }
 
     .menu-icon {
         display: none;
