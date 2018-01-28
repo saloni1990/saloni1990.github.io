@@ -28,10 +28,7 @@
             
              {% if site.linkedin_username %}
            <li>
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-
-    <span class="username">{{ site.linkedin_name }}</span>
-  </a>
+            <% include icon-linked.html username.linkedin_username %>
 </li>
 {% endif %}
          </ul>
