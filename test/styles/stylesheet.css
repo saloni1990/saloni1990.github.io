@@ -38,6 +38,10 @@ li {
 	font-size: 17px;
 }
 
+.lessons ul {
+	background-color: white;
+}
+	
 .topnav a:hover {
 	background-color: white;
 	color: black;
