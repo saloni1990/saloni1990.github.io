@@ -19,13 +19,6 @@ img {
 
 }
 
-
-
-ul {
-	padding: 10px;
-	background: rgba(0,0,0,0.5);
-}
-
 .topnav a{
 	float: left;
 	display: block;
@@ -94,9 +87,14 @@ input[type="submit"] {
 	background: orange;
 	color: white;
 }
-footer li {
+.footerlist li {
 	display: inline-block;
 	padding: 0px 10px 0px 10px;
+}
+
+.footerlist ul {
+	padding: 10px;
+	background: rgba(0,0,0,0.5);
 }
 	
 footer a. {
