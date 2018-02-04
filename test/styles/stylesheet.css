@@ -94,7 +94,11 @@ input[type="submit"] {
 	background: orange;
 	color: white;
 }
-
+footer li {
+	display: inline-block;
+	padding: 0px 10px 0px 10px;
+}
+	
 footer a. {
 	text-decoration: none;
 	}
@@ -104,8 +108,4 @@ footer {
 	background-size: cover;
 	background-position: center;
 	color: white;
-}
-footer li {
-	display: inline-block;
-	padding: 0px 10px 0px 10px;
 }
