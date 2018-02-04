@@ -1,6 +1,4 @@
-
 <html>
-
  <head>
 	<title>Lesson 1: HTML Basics</title>		
 </head>
@@ -16,8 +14,7 @@
 		<h5>Test Layout</h5>
 		<p>This lesson covers all the different types of headings which is why this post looks a little strange.</p>
 		<h6>Come back soon to see my progress!</h6>
-		<p>Thanks for reading!</p>
-		
+		<p>Thanks for reading!</p>	
 	</body>
 </html>
 	
