@@ -58,24 +58,27 @@ img {
     }
 }
 
-article {
-	width: max-width: 500px;
-	padding: 20px;
-	margin: 0 auto;
+
+body {
+  font-family: Helvetica;
+  padding: 2em;
+  background-color: whitesmoke;
 }
 
-a{
-	color: white;
-	text-decoration: none;
+h1 {
+  font-size: 2.5em;
 }
+
 .skillset {
- display: flex;
- justify-content: space-between;
- flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-skill-html {
- background-color: #E55126;
+
+.skill-html {
+  background-color: #E55126;
 }
+
 .skill-js {
   background-color: #E5A227;
 }
@@ -115,39 +118,3 @@ ul {
   color: whitesmoke;
 }
 
-h1 {
-	font-size: 2.5em;
-}
-		
-body {
-	text-align: center;
-	font-family: Helvetica;
-	padding: 2em;
-	background-color: whitesmoke;
-}
-		
-p {
-	font-size: 22px;
-}
-
-input{
-	border: 0;
-	padding: 10px;
-	margin: 10px 0px 0px 0px;
-	font-size: 18px;
-}
-input[type="submit"] {
-	background: orange;
-	color: white;
-}
-
-footer a. {
-	text-decoration: none;
-	}
-	
-footer {
-	text-align: center;
-	background-size: cover;
-	background-position: center;
-	color: white;
-}
