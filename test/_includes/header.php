@@ -1,5 +1,3 @@
-
-	<header>
 	<img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/saloni.jpeg">
 
 	<h1>Saloni</h1>
@@ -12,4 +10,3 @@
 		<li><a href="http://sallearnstocode.co.uk/">Blog Posts</a></li>
 	</ul>
     </div>
-	</header>
