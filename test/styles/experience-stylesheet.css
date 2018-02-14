@@ -43,7 +43,7 @@ h1 {
   color: black;
 }
 
-ul, li {
+.experience ul {
   list-style: none;
   padding: 0;
 }
