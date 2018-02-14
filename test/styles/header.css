@@ -12,7 +12,6 @@ img {
 	height: 300px;
 	border: 5px solid white;
 	border-radius: 300px;
-
 }
 
 ul {
@@ -43,5 +42,4 @@ ul {
 .topnav a.active {
 	color: black;
 	background-color: white;
-
 }
