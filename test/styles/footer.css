@@ -1,0 +1,24 @@
+.social {
+	text-decoration: none;
+}
+input{
+	border: 0;
+	padding: 10px;
+	margin: 10px 0px 0px 0px;
+	font-size: 18px;
+}
+input[type="submit"] {
+	background: orange;
+	color: white;
+}
+
+footer a. {
+	text-decoration: none;
+	}
+	
+footer {
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
