@@ -1,5 +1,5 @@
 <?php
-echo <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/saloni.jpeg">
+echo '<img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/saloni.jpeg">
 	<h1>Saloni</h1>
 	<div class="topnav" id="mytopnav">
 	<ul>
@@ -9,5 +9,5 @@ echo <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/saloni.
 		<li><a href="http://sallearnstocode.co.uk/test/Experience.html">My experience</a></li>
 		<li><a href="http://sallearnstocode.co.uk/">Blog Posts</a></li>
 	</ul>
-    	</div>
+    	</div>'
 ?>
