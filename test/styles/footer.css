@@ -12,18 +12,18 @@ input[type="submit"] {
 	color: white;
 }
 
-footer a. {
+.footer a. {
 	text-decoration: none;
 	color: white;
 	}
 	
-footer {
+.footer {
 	text-align: center;
 	background-size: cover;
 	background-position: center;
 	color: white;
 }
-ul {
+.footer ul {
 	padding: 10px;
 	background: rgba(0,0,0,0.5);
 }
