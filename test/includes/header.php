@@ -1,4 +1,5 @@
-	<img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/saloni.jpeg">
+<?php
+echo <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/saloni.jpeg">
 
 	<h1>Saloni</h1>
 	<div class="topnav" id="mytopnav">
@@ -10,3 +11,4 @@
 		<li><a href="http://sallearnstocode.co.uk/">Blog Posts</a></li>
 	</ul>
     </div>
+?>
