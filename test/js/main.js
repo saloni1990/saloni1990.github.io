@@ -1,3 +1,6 @@
-var skillset = document.getElementsByClassName('skillset');
+/*var skillset = document.getElementsByClassName('skillset');
 
-alert(skillset);
+alert(skillset);*/
+function main() {
+
+}
