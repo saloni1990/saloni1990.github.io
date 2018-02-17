@@ -4,3 +4,5 @@ alert(skillset);*/
 function main() {
 
 }
+
+$(document).ready(main)
