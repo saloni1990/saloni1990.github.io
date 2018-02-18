@@ -3,7 +3,6 @@
 <head>
 	<title>SARO</title>
 	<link rel="stylesheet" type="text/css" href="/test/styles/experience-stylesheet.css">
-	<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 </head>
 <script>
 	$(function() {
@@ -21,5 +20,13 @@
 	</article>
 
 <div id="footer"></div>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script>
+	$(function() {
+		$("#header").load("includes/header.html");
+		$("#footer").load("includes/footer.html");
+	});
+</script>		
+<script src='/test/js/main.js'></script>
 	</body>
 	</html>
