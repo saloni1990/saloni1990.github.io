@@ -2,7 +2,8 @@
 
 alert(skillset);*/
 function main() {
-$('.skillset').hide()
+$('.skillset').hide();
+$('.skillset').fadeIn(1000);
 
 }
 
