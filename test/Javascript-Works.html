@@ -3,19 +3,7 @@
 <head>
 	<title>SARO</title>
 	<link rel="stylesheet" type="text/css" href="/test/styles/experience-stylesheet.css">
-	<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 </head>
-<script>
-	$(function() {
-		$("#header").load("includes/header.html");
-		$("#footer").load("includes/footer.html");
-	});
-	alert("Javascript works!")
-  	$("button").on("click", function() {
-    	alert("clicked!")
-  });
-</script>
-</script>
 <body>
 	<div id="header"></div>
 	<article>
@@ -23,6 +11,14 @@
 		<p>I'm using this page to test Javascript. At the moment it is a simple 'alert'variable but I am hoping that as I continue to learn, that this page will demonstrate more of my skills.
 		<button>Like</button>
 	</article>
-<div id="footer"></div>
+	<div id="footer"></div>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script>
+	$(function() {
+		$("#header").load("includes/header.html");
+		$("#footer").load("includes/footer.html");
+	});
+</script>
+<script src='/test/js/main.js'></script>
 	</body>
 	</html>
