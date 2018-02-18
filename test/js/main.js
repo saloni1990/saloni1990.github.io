@@ -2,6 +2,8 @@
 
 alert(skillset);*/
 function main() {
+  var $skillset = $('.skillset');
+  alert($skillset);
 
 }
 
