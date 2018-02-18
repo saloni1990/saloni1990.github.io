@@ -5,3 +5,5 @@ function main() {
 $('.skillset').hide();
 $('.skillset').fadeIn(4000);
 }
+
+$(document).ready(main);
