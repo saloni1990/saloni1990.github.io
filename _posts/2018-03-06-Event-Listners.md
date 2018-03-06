@@ -10,8 +10,8 @@
 
 <p>For example if we wanted to add an event listener to a specific part on the website, right click on a heading for example and click on inspect. Because this element has been select the '$0' would show up to say that we have selected the element.</p>
 
-<p>If we selected the Tutorials heading on <a href="https://developer.mozilla.org/bm/docs/Web/JavaScript">MDN's JavaScript</a> page we can see that that element will have '$0', like in the image below:
-<img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/%240.jpeg"></p>
+<p>If we selected the Tutorials heading on <a href="https://developer.mozilla.org/bm/docs/Web/JavaScript">MDN's JavaScript</a> page we can see that that element will have '$0', like in the image below:</p>
+<img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/%240.jpeg">
 
 <p>We can see this in the console by doing the following</p>
 <p>$0</p>
