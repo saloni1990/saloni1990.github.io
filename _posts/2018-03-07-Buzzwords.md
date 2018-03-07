@@ -9,7 +9,7 @@
 <li>Enhance the behavior of other functions</li>
 <h1><span style="background-color: #e7ace2">Callback functions</span></h1>
 <li>The functions that are passed into higher order functions</li>
-<h2>Some Example</h2>
+<h2>Some Examples</h2>
 
 <h3>1. Running the debugger</h3>
 <br>
