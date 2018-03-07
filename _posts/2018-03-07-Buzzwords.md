@@ -20,6 +20,8 @@
 <p>}</p>
 <br>
 <p>If we wanted to run this with the debugger the code would look like this:</p>
+<br>
+<p>debugger;</p>
 <p>logTenNumber</p>
 <p>this would open the debugger.</p>
 <br>
