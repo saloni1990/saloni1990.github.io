@@ -4,8 +4,8 @@
 	<title>Buzzwords: High Order Function and callback functions</title>
 </head>
 <body>
-<h1>Higher order function</h1>
-<li><span style="background-color: #a6ecf2">Functions that accept other function</span></li>
+	<h1><span style="background-color: #a6ecf2">Higher order function</span></h1>
+<li>Functions that accept other function</span></li>
 <li>Enhance the behavior of other functions</li>
 <h1><span style="background-color: #e7ace2">Callback functions</span></h1>
 <li>The functions that are passed into higher order functions</li>
@@ -29,7 +29,7 @@
 <p>ourFunction();
 <p>}
 
-<p><span style="background-color: #e7ace2">runWithDebugger</span> <span style="background-color: #e7ace2">(function logTenNumbers() {
+<p><span style="background-color: #a6ecf2">runWithDebugger</span> <span style="background-color: #e7ace2">(function logTenNumbers() {
 <p>for (var i = 0; i < 10; i++){</p>
 <p>console.log(i);</p>
 <p>	}</p>
@@ -38,7 +38,7 @@
 
 <h3>2. SetTimeout</h3>
 
-<p><span style="background-color: #e7ace2">setTimeout</span><span style="background-color: #e7ace2">(function () {</p>
+<p><span style="background-color: #a6ecf2">setTimeout</span><span style="background-color: #e7ace2">(function () {</p>
 <p>	console.log('Wake Up!');</p>
 <p>}</span>, 5000)</p>
 
