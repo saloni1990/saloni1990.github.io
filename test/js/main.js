@@ -13,7 +13,7 @@ function main() {
     */
     $(this).next().slideToggle(400);
     $(this).toggleClass('active');
-    $(this).text('Projects Viewed')
+    $(this).text('Courses Viewed')
 	});
 }
 $(document).ready(main);
