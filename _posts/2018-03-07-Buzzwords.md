@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h1><span style="background-color: #a6ecf2">Higher order function</span></h1>
-<li>Functions that accept other function</span></li>
+<li>Functions that accept other function</li>
 <li>Enhance the behavior of other functions</li>
 <h1><span style="background-color: #e7ace2">Callback functions</span></h1>
 <li>The functions that are passed into higher order functions</li>
@@ -16,8 +16,8 @@
 <p>function logTenNumbers() {</p>
 <p>for (var i = 0; i < 10; i++){</p>
 <p>console.log(i);</p>
-	}
-}
+<p>	}</p>
+<p>}</p>
 <br>
 <p>If we wanted to run this with the debugger the code would look like this:</p>
 <p>logTenNumber</p>
