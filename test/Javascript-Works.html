@@ -6,42 +6,23 @@
 </head>
 <body>
 	<div id="header"></div>
-
-	<div>
-		    <h1>Todo List</h1>
-
-    <div>
-      <button onclick="handlers.toggleAll()">Toggle All</button>
-    </div>
-    
-    <div>
-      <button onclick="handlers.addTodo()">Add</button>
-      <input id="addTodoTextInput" type="text">
-    </div>
-    
-    <div>
-      <button onclick="handlers.changeTodo()">Change Todo</button>
-      <input id="changeTodoPositionInput" type="number">
-      <input id="changeTodoTextInput" type="text">
-    </div>
-  
-    
-    <div>
-      <button onclick="handlers.toggleCompleted()">Toggle Completed</button>
-      <input id="toggleCompletedPositionInput" type="number">
-    </div>
-    
-    <ul>
-    </ul>
-	</div>
+	<article>
+		<h2>Javascript</h2>
+		<p>I'm using this page to test Javascript. At the moment it is a simple 'alert'variable but I am hoping that as I continue to learn, that this page will demonstrate more of my skills.
+		<button>Like</button>
+	</article>
 	<div id="footer"></div>
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script src='/test/js/main.js'></script>
 <script>
 	$(function() {
 		$("#header").load("includes/header.html");
 		$("#footer").load("includes/footer.html");
 	});
+	alert("Javascript works!")
+  	$("button").on("click", function() {
+    	alert("clicked!")
+  });
 </script>
-	<script src='/test/js/todolist.js'></script>
 	</body>
 	</html>
