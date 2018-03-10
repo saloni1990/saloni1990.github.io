@@ -16,7 +16,6 @@ function main() {
     $(this).text('Courses Viewed')
 	});
 }
-$(document).ready(main);
 
 
 //todolist
@@ -131,3 +130,5 @@ var view = {
   }
 };
 view.setUpEventListeners()
+
+$(document).ready(main);
