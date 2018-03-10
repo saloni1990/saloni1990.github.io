@@ -23,6 +23,7 @@ input[type="submit"] {
 	background-size: cover;
 	background-position: center;
 	color: white;
+	margin: 10px 4px 10px 4px;
 }
 .footer ul {
 	padding: 10px;
@@ -32,4 +33,9 @@ input[type="submit"] {
 .footer li {
 	display: inline-block;
 	padding: 0px 10px 0px 10px;
+}
+
+button {
+	background-color: #e7e7e7; 
+	color: black;
 }
