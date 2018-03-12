@@ -18,5 +18,7 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: saloni1990
 github_username:  saloni1990
 linkedin_username:  saloni1990
+# Google Analytics
+google_analytics: UA—113501467-1
 # Build settings
 markdown: kramdown
