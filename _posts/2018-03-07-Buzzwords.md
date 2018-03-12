@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Buzzwords: High Order Function and callback functions</title>
@@ -31,18 +30,20 @@
 <p>ourFunction();
 <p>}
 
-<p><span style="background-color: #a6ecf2">runWithDebugger</span> <span style="background-color: #e7ace2">(function logTenNumbers() {
+<p><span style="background-color: #a6ecf2">runWithDebugger</span> <span style="background-color: #e7ace2">(function logTenNumbers() {</span>
+
 <p>for (var i = 0; i < 10; i++){</p>
 <p>console.log(i);</p>
 <p>	}</p>
-<p>})</span></p>
+<p>})</p>
 
 
 <h3>2. SetTimeout</h3>
 
-<p><span style="background-color: #a6ecf2">setTimeout</span><span style="background-color: #e7ace2">(function () {</p>
+<p><span style="background-color: #a6ecf2">setTimeout</span>
+<span style="background-color: #e7ace2">(function () {</p>
 <p>	console.log('Wake Up!');</p>
-<p>}</span>, 5000)</p>
+<p>}, 5000)</p>
 
 
 </body>

@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Event Listeners</title>
 </head>
 <body>
-<h1>addEventListner - handling events in the Dom</h1>
+<h1>addEventListener - handling events in the Dom</h1>
 
 <p>If we use a method called addEventListener it will isten out for certain clicks.</p>
 
@@ -13,9 +12,6 @@
 <p>If we selected the Tutorials heading on <a href="https://developer.mozilla.org/bm/docs/Web/JavaScript">MDN's JavaScript</a> page we can see that that element will have '$0', like in the image below:</p>
 <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/%240.jpeg">
 
-<p>We can see this in the console by doing the following</p>
-<p>$0</p>
-<p>&lth/2&gt id=​"Tutorials">​Tutorials&lthh/2&gt</p>
 
 <p>We can start by manpulating the DOM element by doing the following:</p>
 
@@ -23,7 +19,7 @@
 
 
 <p>output: tutorialsElement;</p>
-p>&lth/2&gt id=​"Tutorials">​Tutorials&lthh/2&gt</p>
+<p>&lth;h2&gt; id=​"Tutorials">​Tutorials&lth;/h2&gt;</p>
 
 <p>tutorialsElement.addEventListener('click', function(){</p>
 <p>console.log('The tutorials element was clicked!')</p>
