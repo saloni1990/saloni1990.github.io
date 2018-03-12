@@ -51,6 +51,9 @@ h1 {
   list-style: none;
   padding: 0;
 }
+.a {
+  text-decoration: none;
+}
 
 .resources {
   margin: 1em 0;
