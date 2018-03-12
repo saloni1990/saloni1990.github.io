@@ -14,28 +14,32 @@ h1 {
   flex-wrap: wrap;
 }
 
-.skill-html {
-  background-color: #E55126;
+.resources-one {
+  background-color: #A7D2CB;
 }
 
-.skill-js {
-  background-color: #E5A227;
+.resources-two {
+  background-color: #F2D388;
 }
 
-.skill-jquery {
-  background-color: #0C73B8;
+.resources-three {
+  background-color: #C98474;
+}
+.resources-four {
+  background-color: #874C62;
 }
 
-.skill-html,
-.skill-js,
-.skill-jquery {
+.resources-one,
+.resources-two,
+.resources-three,
+.resources-four {
   width: 100%;
   padding: 1em 3em 2em 2em;
   margin: 0.5em;
   color: whitesmoke;
 }
 
-.projects-button {
+.resources-button {
   padding: 0.75em 1.25em;
   background-color: whitesmoke;
   opacity: 0.9;
@@ -48,7 +52,7 @@ h1 {
   padding: 0;
 }
 
-.projects {
+.resources {
   margin: 1em 0;
 }
 
