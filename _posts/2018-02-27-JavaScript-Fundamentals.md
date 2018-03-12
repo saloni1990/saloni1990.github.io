@@ -22,10 +22,10 @@
 </ul>
 <h3>Comparisons with Objects</h3>
 <ul>Objects (can be as complex as we  like)
-	<p>{} todoList, arrays functions</p>
+	<li>{} todoList, arrays functions</li>
 	<p>Comparisons in primitive, work like you'd expect, shown in the example above. However, comparisons with objects work completely differently. In the example below, if we have an object on the left that's empty and an object to the right which is exactly the same but they are not the same. The output will be false if comparing two of the same objects.</p>
-	<p>{} === {}</p>
-	<p>When comparing <em>objects</em> in JavaScript, it looks at objects seperately, even though they may look the same. When we create an object, it saves the object in an unique location in memory. Although the curly brackets look the same, they will have different memories. </p>
+	<li>{} === {}</li>
+	<p>When comparing <em>objects</em> in JavaScript, it looks at objects seperately, even though they may look the same. When we create an object, it saves the object in an unique location in memory. Although the curly brackets look the same, they will have different memories.</p>
 </ul>
 <h3>Comparisons review</h3>
 <p>When we compare primitives, Javascript is comparing the value. However, objects are very different, they are references. This means they are talking abotu memory address. When we save an object to a variable, JavaScript is not saving the stuff inside the object, or inside the curly brackets it is saving the whole object as a memory address or the <strong>reference.</strong></p>
