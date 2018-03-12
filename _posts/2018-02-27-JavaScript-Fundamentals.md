@@ -11,7 +11,8 @@
  <p>I have joined a few groups for beginners where I can see a lot of people are in the same position as me which is great and those groups are full of information about places to learn the fundamentals of web development. It was one of these groups that actually led me to <a href="https://watchandcode.com/">Watch and Code</a>. I have completed the JavaScript basics course on Codecademy, but it was Watch and Code that really helped me to understand the fundamentals and I can't recommend it enough. The tutor, Gordon Zhu, thoroughly explains what each bit of the code means and really simplifies and breaks down the problem. So for the past week I have been doing this course which teaches you how to do a very basic to-do list which you can add things to, changes things, and delete things. I'm about half way through this course but I have come to a section where Gordon explains different JavaScript data types and I thought this is the perfect opportunity write a blog about. I have a really good understanding of data types from previous courses but keep reading and you can see a breakdown of the data types below.</p>
 <h2>JavaScript Data Types</h2>
 <h3> Comparisons with Primitives</h3>
-<ul>Primitive Building Blocks
+<ul>
+	<p>Primitive Building Blocks</p>
 	<li>String - 'this is a string'</li>
 	<p>JavaScript compares primitives to see if they are the same or different. For exampl,e if you were to type 'Saloni' === 'Saloni' the output of the comprison would be <em>other</em>, however if we were to write 'Saloni1' === 'Saloni' would equal <em>false</em>.</p>
 	<li>Number - 1, 2, 3, 4, etc.</li>
@@ -21,7 +22,8 @@
 	<li>Null - 'Nothing'</li>
 </ul>
 <h3>Comparisons with Objects</h3>
-<ul>Objects (can be as complex as we  like)
+<ul>
+	<p>Objects (can be as complex as we like)</p>
 	<li>{} todoList, arrays functions</li>
 	<p>Comparisons in primitive, work like you'd expect, shown in the example above. However, comparisons with objects work completely differently. In the example below, if we have an object on the left that's empty and an object to the right which is exactly the same but they are not the same. The output will be false if comparing two of the same objects.</p>
 	<li>{} === {}</li>
