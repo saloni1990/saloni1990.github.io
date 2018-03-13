@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>SARO</title>
-	<link rel="stylesheet" type="text/css" href="/test/styles/experience-stylesheet.css">
-		<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-113501467-1');
-</script>
+<head id="head">
 </head>
 <body>
 	<div id="header"></div>
@@ -24,6 +14,7 @@
 <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 <script>
 	$(function() {
+		$("#head").load("includes/head.html");
 		$("#header").load("includes/header.html");
 		$("#footer").load("includes/footer.html");
 	});
