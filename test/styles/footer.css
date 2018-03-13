@@ -24,10 +24,11 @@ input[type="submit"] {
 	background-position: center;
 	color: white;
 	background: rgba(0,0,0,0.5);
+	padding: 10px;
 }
 .footer ul {
 	margin: 10px 4px 10px 4px;
-	padding: 10px;
+
 }
 
 .footer li {
