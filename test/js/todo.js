@@ -70,7 +70,7 @@ var handlers = {
 
 var view = {
   displayTodos: function() {
-    var todosUl = document.querySelector('ul');
+    var todosUl = document.querySelector('ul.todos');
     todosUl.innerHTML = '';
     
     todoList.todos.forEach(function(todo, position) {
