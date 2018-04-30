@@ -6,10 +6,10 @@
 <body>
 <h1>Floating</h1>
 <p>One way to determine where the elements can go is to use floats. When you float an element on the page you are telling the webpage where the element should go but it also has to be put into the flow of other elements. This is so that if you have several elements all floating that each knows where they are and won't land on top of eachother.</p>
-<p>Codecademy suggests thinking that the HTML page is like a sea and the floating elements as boats on it, and they all see and steer clear of each other </p>
+<p>Codecademy suggests thinking that the HTML page is like a sea and the floating elements as boats on it, and they all see and steer clear of each other. </p>
 <p>We can use the float property to set the elements so that they go right or left.</p>
 <h3>Clearing Elements</h3>
-<p>Somets large floating elements can get mixed up with non-floating ones, and elements do end up on top of eachother. Looking at the image below. the footer (in blue) is stuck behind the other elements. This is because we havent set a 'clear' property so that the other elements can move out of the day.</p>
+<p>Sometimes large floating elements can get mixed up with non-floating ones, and elements do end up on top of each other. Looking at the image below. The footer (in blue) is stuck behind the other elements. This is because we havent set a 'clear' property so that the other elements can move out of the way.</p>
 <img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/Floating+Elements.jpeg" />
 <p>By telling an element to 'clear' left, it will immediately move below any floating elements on the left side of the page, or it can clear right. By telling it to 'clear' both, it will get out of the way of elements floating on the left and right.</p>
 <p>Below is the HTML document and CSS Stylesheet to familiarise with the coding.</p>
@@ -24,7 +24,7 @@
 			<li>If there's no such element, the element with 'position:absolute', gets positioned relative to html. See the image below:</li>
 			<li><img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/Absolute+Positioning+HTML.jpeg" /></li>
 			<li><img src="https://s3.eu-west-2.amazonaws.com/sallearnstocode.images/Absolute+Positioning.jpeg" /></i></li>
-			<li>See how the #inner div has moved 20 pixels in from the edge of the #outder div? That's absolute positioning.</li>
+			<li>See how the #inner div has moved 20 pixels in from the edge of the #outer div? That's absolute positioning.</li>
 		</ul>
 	</li>
 	<li><h3>Relative Positioning</h3>
