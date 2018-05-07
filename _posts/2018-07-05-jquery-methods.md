@@ -4,16 +4,29 @@
 	<title>Methods</title>
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="methods.js"></script>
+	<script>
+	$(function(){
+	$("img").css("width", "500px");
+	$("img").click(function() {
+		$("img").attr("src", "https://www.chiens-de-france.com/photo/chiens/2017_05/chiens-Bulldog-Anglais-e5a99c4a-dc3a-0504-2db2-ced912e78074_min.jpg");
+		$("img").css({
+				height: "500px",
+				width: "400px",
+			});
+	});
+	$("input").hover(function() {
+	$("input").val("Hi, I'm Saloni");
+});
+});		
+	</script>
 	<style type="text/css">
 		.correct {
 			color: green;
 		}
-
 		.wrong {
 			color: red;
 			background-color: pink;
 		}
-
 		.done {
 			color: grey;
 			text-decoration: line-through;
