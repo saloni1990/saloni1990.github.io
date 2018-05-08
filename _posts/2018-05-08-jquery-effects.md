@@ -35,7 +35,6 @@
 <div class="fade">Please don't fade me</div>
 <div class="fade">Really, please dont fade me</div>
 <div class="fade">Help help help!</div>
-
 <br>
 <p>Here is the example. We can use the dollar sign to select the button element and run a function with a fadeOut method which takes one 1 second to fade out. We then add a function inside of this to console log that the fade has been complete. If we were to have a console log outside of the fadeOut function, when we click on the button the divs will start to fade but the as soon as we click the console will print 'fade completed. We want the console to print 'fade completed' when the divs have faded out so that's why we have a function inside of the fade out to do this..</p>
 
