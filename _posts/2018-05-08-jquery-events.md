@@ -39,7 +39,7 @@
  <h1>another h1</h1>
  <h1>and another h1</h1>
 
- <h2>Some common jQuery Events</h2>
+ <h1>Some common jQuery Events</h1>
 
  <ul>
   <li>click()</li>
@@ -47,7 +47,7 @@
   <li>on()</li>
  </ul>
 
- <h2>click()</h2>
+ <h1>click()</h1>
  <p>When using Vanilla JS we would always write target.addEventListener(type, function(){}). However jQuery's click() method is a quick and easy way to add a click listener to elements(s).</p>
 
  <button>Don't Click Me</button>
@@ -87,7 +87,7 @@
  });
  </pre>
 
-<h2>keypress()</h2>
+<h1>keypress()</h1>
 <p>jQuery's <em>keypress()</em>method is a quick and easy way to add a keypress listener to elements</p>
 <p>Other methods include <em>keydown()</em> when an event is triggered when we press on a key and <em>keyup()</em> which triggers an event as soon as we release the key. <a href="https://stackoverflow.com/questions/12827408/whats-the-theory-behind-jquery-keypress-keydown-keyup-black-magic-on-macs">Stack Overflow</a> explains these events really well.</p>
 <p>keypress() works just like click(), we select something with the dollar sign, then we chain on keypress() and pass in a callback function. The callback function will be called anytime a keypress() event is triggered on the selected element or collection of elements.</p>
@@ -123,7 +123,7 @@ alert("You hit enter!!")
 <p>As a note, event has been used as a variable but can also be called 'e' or anything else.</p>
 
 
-<h2>on()</h2>
+<h1>on()</h1>
 <p>jQuery's <em>on()</em> works similarly to addEventListener. It lets you specify a type of event to listen to.</p>
 
 <pre>
@@ -183,7 +183,7 @@ $("button").on('mouseleave', function(){
 });
 </pre>
 
- <h2>What is the difference between click() and on()?</h2>
+ <h1>What is the difference between click() and on()?</h1>
 
 
  <p>In most cases, click() and on('click') will both get the job done. However, there is one key difference.</p>
