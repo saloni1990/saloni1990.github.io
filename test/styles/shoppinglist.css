@@ -68,6 +68,14 @@ input:focus{
 	border: 3px solid #2980b9;
 	outline: none;
 }
+
+.fa-plus {
+	float: right;
+}
+.fa-minus {
+	float: right;
+}
+
 #slContainer {
 	width: 360px;
 	margin: 100px auto;
@@ -80,11 +88,3 @@ input:focus{
 	text-decoration: line-through;
 }
 
-
-.navbar-inverse .navbar-nav>li>a {
-	color: white;
-}
-
-.navbar-inverse .navbar-brand {
-	color: white;
-}
