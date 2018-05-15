@@ -21,9 +21,12 @@
 
 <h1>Why are we using Express?</h1>
 
-<p>To build the apps in the Web Developer Bootcamp, we will be using Express. Express is the most popular node development framework. Express is a light-weight framework where you know exactly where you're getting.</p>
+<p>To build the apps in the Web Developer Bootcamp, we will be using Express. Express is the most popular node development framework. Express is a light-weight framework where you know exactly where you're getting. Click <a href="https://expressjs.com/en/starter/installing.html">here</a> to read about getting started with Express.</p>
 
 <h1>Routes</h1>
 <p>Routes are important because it is how it listens to requests then runs some other code depending on the request we get.  </p>
+
+<h1>Package.json</h1>
+<p>It stands for JavaScript Object Notification and it is a datatype, it is a way of formatting text in a file to represent structure. It contains all the metadata about the express package</p>
 </body>
 </html>
